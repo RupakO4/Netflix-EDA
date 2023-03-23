@@ -1,0 +1,1001 @@
+title_type,primary_title,genres,runtime_minutes,num_votes,average_rating,start_year
+movie,Hidden Agenda,Drama,65.0,8,9.6,
+tvEpisode,There are Some People Who You Shouldn't Mess With,"Crime,Drama",,18,7.5,
+tvSeries,The Wonderful World of Babies,Documentary,60.0,16,7.1,
+movie,You Don't Know Nicotine,Documentary,,39,8.5,
+movie,"The Great 14th: Tenzin Gyatso, the 14th Dalai Lama in His Own Words",Documentary,82.0,152,9.3,
+movie,Luccas Neto em: Acampamento de Férias,"Comedy,Family",87.0,76,2.5,
+movie,Prem Prakaran,"Drama,Romance",162.0,67,9.7,
+tvEpisode,Tom Holland/Alana Haim/Stevie Nistor,"Comedy,Talk-Show",41.0,17,7.1,
+tvEpisode,Antony Blinken/Twice,"Comedy,Talk-Show",,19,6.4,
+movie,Shkembimi,"Action,Comedy,Crime",87.0,93,7.3,
+tvEpisode,Beg for What You Need,"Crime,Drama,Mystery",,13,8.0,
+short,Perhaps,"Drama,Romance,Short",35.0,7,9.6,
+tvEpisode,Tracee Ellis Ross/Jabani Banks/Koffee,"Comedy,Music,Talk-Show",41.0,13,6.5,
+tvEpisode,The First Day of School,"Action,Animation,Family",,24,9.1,
+short,Buffalo Running,"Documentary,Short",1.0,1091,6.2,1883.0
+short,Woman Opening Umbrella,Short,,148,5.3,1887.0
+short,Le prince de Galles,"Documentary,Short",,196,4.8,1892.0
+short,Horse Shoeing,"Documentary,Short",,238,3.8,1893.0
+short,Highland Dance,Short,,58,4.4,1894.0
+short,Bertoldi (Table Contortion),Short,,74,4.0,1894.0
+short,Rats and Weasel,Short,,28,3.0,1894.0
+short,The Hornbacker-Murphy Fight,"Short,Sport",1.0,348,5.0,1894.0
+short,Athlete with Wand,"Short,Sport",1.0,596,4.5,1894.0
+short,Crows on Saffron Hill,"Documentary,Short",,42,3.7,1894.0
+short,Lasso Thrower,"Action,Short,Western",,51,4.7,1894.0
+short,New Blacksmith Shop,Short,1.0,141,4.5,1895.0
+short,Quartette,Short,,27,3.8,1895.0
+short,"Annabelle Serpentine Dance, no. 2",Short,,7,5.6,1895.0
+short,New Barber's Shop,Short,,27,4.4,1895.0
+short,Trilby Death Scene,"Drama,Short",,23,3.5,1895.0
+short,Italienischer Bauerntanz,"Documentary,Short",1.0,323,4.6,1895.0
+short,Leaving the Factory,"Documentary,Short",1.0,7085,6.9,1895.0
+short,Steamer 'New York' in Dock,"Documentary,Short",,22,3.3,1895.0
+short,(7ème) Cuirassiers: défilé (par escadron),Short,1.0,25,4.1,1896.0
+short,Revue à Longchamp: arrivée de M. le Président de la République Félix Faure,Short,1.0,163,4.6,1896.0
+short,Vistas españolas,Short,,17,3.7,1896.0
+short,The Old German Mill,Short,,17,4.1,1896.0
+short,Marché indien sur le canal de la Viga [Mexique],Short,1.0,124,4.3,1896.0
+short,The Interrupted Supper,Short,,15,3.0,1896.0
+short,"New York, Broadway",Short,1.0,196,5.8,1896.0
+short,Coronation of a Village Maiden,Short,,29,3.2,1896.0
+short,La voiture du potier,Short,,36,6.0,1896.0
+short,Bal Espagnol dans la rue (Mexique),Short,,42,4.8,1896.0
+short,Contortionist,Short,,21,4.1,1896.0
+short,Watermelon Contest,"Comedy,Short",1.0,296,3.9,1896.0
+short,A Surrey Garden,"Comedy,Short",,23,4.3,1896.0
+short,Rip Meeting the Dwarf,"Fantasy,Short",1.0,526,4.5,1896.0
+short,Porto,"Documentary,Short",,16,4.0,1896.0
+short,Bicyclist,"Documentary,Short",1.0,352,6.0,1896.0
+short,Scaphandrier,"Documentary,Short",1.0,154,5.4,1896.0
+short,"Rescue on the River, Pt. 1","Documentary,Short",,53,5.1,1896.0
+short,Marée montante sur Brise-Larmes,"Documentary,Short",,31,4.2,1896.0
+short,Défilé d'infanterie française,"Documentary,Short",,21,5.0,1896.0
+short,Hyde Park Bicycling Scene,"Documentary,Short",1.0,168,5.1,1896.0
+short,"Li Hung Chang, 5th Avenue & 55th Street, N.Y.","Documentary,Short",,25,4.2,1896.0
+short,Voyage dans un train,"Documentary,Short",1.0,47,4.1,1896.0
+short,X-Ray Cinematography of Frog's Legs,"Documentary,Short",,24,6.6,1896.0
+short,Les repas des chats,"Documentary,Short",1.0,68,5.2,1896.0
+short,Sidewalks of New York,"Documentary,Short",,25,4.4,1896.0
+short,A Watermelon Feast,"Documentary,Short",,84,6.4,1896.0
+short,Balançoires,"Documentary,Short",1.0,230,5.1,1896.0
+short,Closing Hours at Vibert's Perfume Factory,"Documentary,Short",,32,4.8,1896.0
+short,"Cologne, Panorama pris d'un bateau","Documentary,Short",1.0,93,5.4,1896.0
+short,"Budapest, pont suspendu","Documentary,Short",1.0,121,5.0,1896.0
+short,"Marseille, la Canebière","Documentary,Short",1.0,241,5.1,1896.0
+short,Pompiers à Lyon,"Documentary,Short",1.0,466,5.5,1896.0
+short,"Barcelone, panorama du port I","Documentary,Short",1.0,107,5.4,1896.0
+short,"East Side Drive, No. 1","Documentary,Short",,31,4.0,1896.0
+short,Sortie de fabrique,"Documentary,Short",1.0,26,4.7,1896.0
+short,"Munich, Maximilianeum","Documentary,Short",1.0,68,4.8,1896.0
+short,Chegada de um Comboio Americano a Cadoucos,"Documentary,Short",,18,3.7,1896.0
+short,Park Police Drill Left Wheel and Forward,"Documentary,Short",,22,3.7,1896.0
+short,The Messers. Lumière at Cards,"Documentary,Short",1.0,1529,5.6,1896.0
+short,Feeding the Doves,"Documentary,Short",1.0,883,5.0,1896.0
+short,Uninvited Guest,Short,,17,4.2,1897.0
+short,"Boston, Commercial Street",Short,1.0,24,4.1,1897.0
+short,Buffalo Bill: peaux rouges,Short,1.0,75,4.7,1897.0
+short,Riña en un café,Short,1.0,130,4.6,1897.0
+short,Making Soap Bubbles,Short,,18,3.0,1897.0
+short,Ronde enfantine,Short,1.0,56,5.2,1897.0
+short,"Ballet, 'Le carnaval de Venise' II",Short,1.0,71,4.7,1897.0
+short,Fatima,Short,,80,5.0,1897.0
+short,Entrée du cortège royal à l'Exposition,Short,1.0,66,4.3,1897.0
+short,Facial Expressions by Loney Haskell,Short,,26,5.0,1897.0
+short,The Jealous Monkey,Short,,26,4.2,1897.0
+short,Hail Britannia!,Short,,12,3.6,1897.0
+short,Danse d'hommes,Short,1.0,96,4.8,1897.0
+short,Danse serpentine,Short,1.0,66,5.8,1897.0
+short,Attaque d'un poste anglais,"Short,War",,26,3.5,1897.0
+short,Le roi Léopold II à l'exposition de Tervuren,"News,Short",,12,3.8,1897.0
+short,Death of Nancy Sykes,"Drama,Short",,33,3.2,1897.0
+short,The Miser,"Drama,Short",,19,3.7,1897.0
+short,The Lover in the Bag,"Comedy,Short",1.0,146,5.7,1897.0
+short,Le cocher de fiacre endormi,"Comedy,Short",,27,4.8,1897.0
+short,Douche après le bain,"Comedy,Short",1.0,349,5.2,1897.0
+short,La défense du drapeau,"Drama,Short,War",1.0,94,4.9,1897.0
+short,"Pile Driving, Washington Navy Yard","Documentary,Short",,19,3.8,1897.0
+short,"Ferryboat and Tug Passing Governors Island, New York Harbor","Documentary,Short",,26,3.2,1897.0
+short,"Paris, le Pont-Neuf","Documentary,Short",1.0,246,5.1,1897.0
+short,"Jerusalem, Jaffa Gate, East Side","Documentary,Short",1.0,258,5.7,1897.0
+short,Les congolais à Tervueren,"Documentary,Short",,13,4.0,1897.0
+short,Procession of the Holy Carpet,"Documentary,Short",,15,3.6,1897.0
+short,60 Minute Flyer,"Documentary,Short",,27,3.0,1897.0
+short,Arab Knife Grinder at Work,"Documentary,Short",,14,3.0,1897.0
+short,Descente de la grande pyramide,"Documentary,Short",1.0,78,4.6,1897.0
+short,Hotel del Monte,"Documentary,Short",,128,4.0,1897.0
+short,Railway Traffic on the L.N.W.R.,"Documentary,Short",,14,4.8,1897.0
+short,"Blick vom Amerika Höft, Hamburg","Documentary,Short",,14,3.8,1897.0
+short,Vinolia Soap,"Documentary,Short",,14,4.0,1897.0
+short,Am Prater-Stern in Wien,"Documentary,Short",,15,3.3,1897.0
+short,"Sleigh Riding, Central Park","Documentary,Short",,18,3.8,1897.0
+short,Life Guards and Princes North of St Paul's,"Documentary,Short",1.0,69,4.3,1897.0
+short,Touristes revenant d'une excursion,"Documentary,Short",,34,4.8,1897.0
+short,Royal Princes in St. Paul's Churchyard,"Documentary,Short",1.0,69,4.3,1897.0
+short,Boxing for Points,"Documentary,Short,Sport",1.0,51,4.0,1897.0
+short,"Sutro Baths, No. 1","Documentary,Short,Sport",,167,4.5,1897.0
+short,Merry-Go-Round,Short,,31,3.5,1898.0
+short,Old Glory and the Cuban Flag,Short,,24,3.6,1898.0
+short,Fregoli barbiere maldestro,Short,,17,5.5,1898.0
+short,Fregoli al ristorante,Short,,26,3.9,1898.0
+short,Visite de l'épave du Maine,Short,,34,5.1,1898.0
+short,A Very Laughable Mixup,Short,,30,3.8,1898.0
+short,Freedom of Cuba,Short,,31,3.7,1898.0
+short,The 'Lorenzo',Short,,22,5.6,1898.0
+short,An Impromptu Can-Can at the Chorus Girls' Picnic,Short,,25,2.7,1898.0
+short,La fuite en Égypte,Short,1.0,19,4.2,1898.0
+short,Battle of Manila Bay,"Short,War",,28,4.8,1898.0
+short,Combat naval devant Manille,"Short,War",,24,4.9,1898.0
+short,The Wreck of the 'Maine',"News,Short",,18,4.2,1898.0
+short,IX. Le couronnement d'épines,"Drama,Short",1.0,15,5.2,1898.0
+short,La mise en croix,"Drama,Short",1.0,34,5.3,1898.0
+short,Výstavní párkar a lepic plakátù,"Comedy,Short",1.0,129,4.6,1898.0
+short,Querelle de matelassières,"Comedy,Short",1.0,239,5.3,1898.0
+short,Adventures of William Tell,"Comedy,Short",1.0,560,6.1,1898.0
+short,Photographing a Ghost,"Horror,Short",,28,5.0,1898.0
+short,Mexico Street Scene,"Documentary,Short",,23,3.5,1898.0
+short,"Course de taureaux, sortie de la quadrille","Documentary,Short",,37,4.4,1898.0
+short,Sleighing Scene,"Documentary,Short",,96,4.3,1898.0
+short,Soldiers Washing Dishes,"Documentary,Short",,95,3.3,1898.0
+short,"Mess Call, American Camp at Chicamauga","Documentary,Short",,21,2.1,1898.0
+short,After Launching,"Documentary,Short",,129,3.4,1898.0
+short,Express Train on a Railway Cutting,"Documentary,Short",,83,5.4,1898.0
+short,"71st Regiment, New York","Documentary,Short",,75,3.7,1898.0
+short,"10th U.S. Infantry, 2nd Battalion Leaving Cars","Documentary,Short",1.0,136,3.7,1898.0
+short,Good Night,"Documentary,Short",,15,3.7,1898.0
+short,Panorama du funiculaire de Bellevue II,"Documentary,Short",1.0,83,5.7,1898.0
+short,"Pope Leo XIII in Vatican Garden, No. 1","Documentary,Short",,13,5.0,1898.0
+short,The River Zaan,"Documentary,Short",,22,5.8,1898.0
+short,Street Fight and Arrest,"Documentary,Short",,31,4.6,1898.0
+short,A Blast at the Solvay Quarries,"Documentary,Short",,40,5.4,1898.0
+short,Feeding Sea Gulls,"Documentary,Short",,95,4.0,1898.0
+short,Pope Leo XIII Walking Before Kneeling Guards,"Documentary,Short",,19,3.9,1898.0
+short,Troop Ships for the Philippines,"Documentary,Short,War",1.0,228,4.7,1898.0
+short,"Tetherball, or Do-Do","Documentary,Short,Sport",,86,4.9,1898.0
+short,Trick Bears,Short,2.0,105,3.3,1899.0
+short,The Snow Man,Short,,18,3.8,1899.0
+short,Prinsengracht,Short,2.0,73,5.5,1899.0
+short,Pick-pocket et policeman,Short,,17,4.0,1899.0
+short,The Fight of Reporters at the Lycée,Short,1.0,253,5.2,1899.0
+short,Automobiles fleuries,Short,,9,5.2,1899.0
+short,Danse bohémienne,Short,,16,4.4,1899.0
+short,Baby Feeding a Kitten,Short,,23,7.4,1899.0
+short,Raising Old Glory Over Morro Castle,Short,1.0,110,3.3,1899.0
+short,Christ Walking on Water,Short,,19,4.2,1899.0
+short,As in a Looking Glass,"Comedy,Short",2.0,131,5.1,1899.0
+short,A Ray of Sunshine After the Rain,"Comedy,Short",,22,4.9,1899.0
+short,The Miser's Doom,"Horror,Short",,25,4.2,1899.0
+short,Dreyfus Put in Irons,"Biography,Short",1.0,247,5.0,1899.0
+short,The 'Roslin Castle' (Troopship) Leaving for South Africa,"Documentary,Short",,25,3.3,1899.0
+short,Climbing Jacob's Ladder,"Documentary,Short",,44,7.3,1899.0
+short,Funérailles de Félix Faure,"Documentary,Short",,19,3.8,1899.0
+short,Morning Colors on U.S. Cruiser 'Raleigh',"Documentary,Short",1.0,91,3.4,1899.0
+short,Portsmouth,"Documentary,Short",,11,4.9,1899.0
+short,First Northumberland Fusiliers Digging Entrenchments,"Documentary,Short",,27,3.8,1899.0
+short,Amsterdams vreemdelingenverkeer,"Documentary,Short",,29,3.6,1899.0
+short,Female Prisoners: Detroit House of Correction,"Documentary,Short",,27,6.0,1899.0
+short,"Under the Shadow of Mt. Stephen, Passing Field's Station in the Rocky Mountains","Documentary,Short",,17,7.4,1899.0
+short,The Fitzsimmons-Jeffries Fight,"Documentary,Short,Sport",,29,4.8,1899.0
+short,"Coppelia, the Animated Doll",Short,2.0,21,6.0,1900.0
+short,The Conjurer,Short,,21,5.6,1900.0
+short,La rue des nations,Short,1.0,31,4.8,1900.0
+short,Rough Sea,Short,1.0,281,4.2,1900.0
+short,Buffalo Bill's Wild West Parade,"News,Short",,24,4.2,1900.0
+short,L'Enfant prodigue,"Drama,Short",7.0,15,3.9,1900.0
+short,How Bridget Made the Fire,"Comedy,Short",,24,4.9,1900.0
+short,I Had to Leave a Happy Home for You,"Comedy,Short",,28,4.2,1900.0
+short,Chirurgie fin de siècle,"Comedy,Short",2.0,257,5.7,1900.0
+short,The Tramp and the Crap Game,"Comedy,Short",,24,7.5,1900.0
+short,The Doctor and the Monkey,"Comedy,Short",1.0,356,5.2,1900.0
+short,Boxeurs,"Comedy,Short",1.0,9,4.5,1900.0
+short,"Oh! What a Night; or, The Sultan's Dream","Fantasy,Short",3.0,390,5.7,1900.0
+short,The Three Bacchantes,"Fantasy,Short",,18,5.7,1900.0
+short,Champs de Mars,"Documentary,Short",1.0,213,5.4,1900.0
+short,Galveston Hurrican Shots,"Documentary,Short",,14,5.6,1900.0
+short,Panorama of Wreckage of Water Front,"Documentary,Short",,74,3.9,1900.0
+short,Panoramic View of the Place De L'Concord,"Documentary,Short",2.0,63,4.6,1900.0
+short,Lancers Under the Earl of Airlie Fording the Modder River,"Documentary,Short",,20,3.6,1900.0
+short,Up-to-Date Spiritualism,"Comedy,Fantasy,Short",2.0,362,5.7,1900.0
+short,L'eau merveilleuse,Short,,13,5.6,1901.0
+short,The Arrest of Goudie,Short,,6,3.5,1901.0
+short,Prison Bars,"Drama,Short",,24,4.2,1901.0
+short,Manchester Wheelers' Annual Race Meet,"Short,Sport",4.0,30,4.5,1901.0
+short,The Tramp's Unexpected Skate,"Comedy,Short",,109,4.7,1901.0
+short,The Brahmin and the Butterfly,"Fantasy,Short",2.0,477,6.0,1901.0
+short,The House of Mystery,"Fantasy,Short",3.0,337,6.2,1901.0
+short,"McKinley's Funeral Entering Westlawn Cemetery, Canton [Ohio]","Documentary,Short",3.0,57,4.3,1901.0
+short,Maillane: Défilé des tambourinaires,"Documentary,Short",1.0,79,4.4,1901.0
+short,Badende damer paa Badeanstalt,"Documentary,Short",,13,3.8,1901.0
+short,"University Procession on Degree Day, Birmingham","Documentary,Short",2.0,71,4.9,1901.0
+short,"Jamaica Street, Glasgow","Documentary,Short",3.0,103,5.5,1901.0
+short,The Clown with the Portable Body,"Comedy,Fantasy,Short",2.0,478,6.5,1901.0
+short,The Gans-McGovern Fight,"Documentary,Short,Sport",,32,5.7,1901.0
+short,Trade Procession at Opening of Cork Exhibition,Short,6.0,23,4.5,1902.0
+short,Congregation Leaving St. Patrick's Church in Cork,Short,,29,4.3,1902.0
+short,Foxy Grandpa and Polly in a Little Hilarity,Short,1.0,149,5.1,1902.0
+short,"Workers Leaving Lee Boot Factory Dwyer & Co. Ltd, Cork",Short,1.0,27,5.4,1902.0
+short,Foxy Grandpa Shows Boys He Is a Magician,"Comedy,Short",,40,6.9,1902.0
+short,The Extraordinary Waiter,"Comedy,Short",1.0,105,5.0,1902.0
+short,Foxy Grandpa Shows the Boys a Trick or Two with the Tramp,"Comedy,Short",,86,8.2,1902.0
+short,Jack and the Beanstalk,"Fantasy,Short",10.0,757,6.1,1902.0
+short,The Magical Hen,"Fantasy,Short",2.0,33,5.3,1902.0
+short,The Magician and the Imp,"Fantasy,Short",1.0,269,5.3,1902.0
+short,Tram Rides Through Nottingham,"Documentary,Short",6.0,12,5.0,1902.0
+short,Panoramic View Near Mt. Golden on the Canadian Pacific R. R.,"Documentary,Short",2.0,21,3.3,1902.0
+short,Japanese Girl Smoking Cigarettes,"Documentary,Short",,26,5.3,1902.0
+short,The India-Rubber Man,"Documentary,Short",,12,6.2,1902.0
+short,New York's New Subway,"Documentary,Short",,16,4.2,1902.0
+short,New York City in a Blizzard,"Documentary,Short",3.0,49,4.9,1902.0
+short,Burning of Durland's Riding Academy,"Documentary,Short",3.0,169,5.1,1902.0
+short,The Devil's Money Bags,"Comedy,Fantasy,Horror",3.0,459,5.5,1902.0
+short,Les Elkes champions du Cake-Walk,Short,1.0,89,5.1,1903.0
+short,Catch-As-Catch-Can Wrestling Bout,Short,2.0,39,4.5,1903.0
+short,Eccentric Waltz,Short,2.0,33,6.0,1903.0
+short,Los héroes del sitio de Zaragoza,"Short,War",4.0,65,5.1,1903.0
+short,The Haymarket,"Drama,Short",5.0,32,5.4,1903.0
+short,Street Car Chivalry,"Comedy,Short",1.0,86,5.0,1903.0
+short,"A Frontier Flirtation; or, How the Tenderfoot Won Out","Comedy,Short",1.0,111,4.7,1903.0
+short,Fregoli dietro le quinte,"Comedy,Short",,9,4.1,1903.0
+short,Akt-Skulpturen. Studienfilm für bildende Künstler,"Documentary,Short",1.0,206,6.3,1903.0
+short,From London to Brighton,"Documentary,Short",,37,7.7,1903.0
+short,Retour du Cortège après le Couronnement: Le Roi,"Documentary,Short",1.0,64,4.8,1903.0
+short,Emigrants Landing at Ellis Island,"Documentary,Short",2.0,237,5.4,1903.0
+short,"Transporting Internal Rev. Stamps, U.S.P.O.","Documentary,Short",,40,3.5,1903.0
+short,The Poachers,"Action,Crime,Drama",3.0,414,5.9,1903.0
+short,Faust et Méphistophélès,"Drama,Horror,Short",2.0,270,5.2,1903.0
+short,Bubbles!,Short,,12,3.9,1904.0
+short,A Miracle Under the Inquisition,Short,3.0,262,5.8,1904.0
+short,The Ex-Convict,"Drama,Short",8.0,216,5.8,1904.0
+short,"Trotting Match at Springfield Park, Wigan","Short,Sport",2.0,29,4.7,1904.0
+short,Railroad Smashup,"Action,Short",1.0,65,5.9,1904.0
+short,Life of an American Fireman,"Action,Short",,26,6.2,1904.0
+short,The Bathers' Revenge,"Comedy,Short",1.0,20,4.3,1904.0
+short,Barnum's Trunk,"Comedy,Short",4.0,70,5.9,1904.0
+short,Mr. Jack in the Dressing Room,"Comedy,Short",1.0,80,4.7,1904.0
+short,The Lost Child,"Comedy,Short",6.0,50,5.0,1904.0
+short,"Pity the Blind, No. 2","Comedy,Short",1.0,93,4.6,1904.0
+short,Decoyed,"Crime,Drama,Short",3.0,32,5.3,1904.0
+short,Kejserinde Dagmar ankommer til Gentofte,"Documentary,Short",1.0,9,3.6,1904.0
+short,Automobile Race for the Vanderbilt Cup,"Documentary,Short",3.0,97,5.1,1904.0
+short,Blackpool Victoria Pier,"Documentary,Short",2.0,88,5.1,1904.0
+short,Steam Hammer,"Documentary,Short",4.0,119,4.9,1904.0
+short,Panorama du port d'Alger,"Documentary,Short",1.0,80,5.2,1904.0
+short,President Roosevelt's Homecoming,"Documentary,Short",1.0,20,3.3,1904.0
+short,Scenes in an Infant Orphan Asylum,"Documentary,Short",8.0,28,4.1,1904.0
+movie,Eine Fliegenjagd oder Die Rache der Frau Schultze,,,27,5.0,1905.0
+short,Le coq dressé de Cook et Rilly,Short,2.0,146,4.4,1905.0
+short,Scenes of Convict Life,"Drama,Short",8.0,43,6.0,1905.0
+short,The Gun License,"Comedy,Short",5.0,16,5.4,1905.0
+short,Matrimonial Agency,"Comedy,Short",,12,4.4,1905.0
+short,Poison or Whiskey,"Comedy,Short",,14,4.2,1905.0
+short,Le Moustique Récalcitrant,"Comedy,Short",1.0,63,5.3,1905.0
+short,MacNab's Visit to London,"Comedy,Short",5.0,37,5.8,1905.0
+short,Our New Errand Boy,"Comedy,Short",5.0,124,5.4,1905.0
+short,Parada na turska pesadija i konjanica,"Documentary,Short",2.0,86,4.6,1905.0
+short,"Leap Frog Railway, Coney Island","Documentary,Short",1.0,16,5.5,1905.0
+short,"Special March Past of St. Joseph's Scholars and Special Parade of St. Matthew's Pupils, Blackburn","Documentary,Short",2.0,72,5.1,1905.0
+short,Pennsylvania Tunnel Excavation,"Documentary,Short",3.0,67,4.2,1905.0
+short,Svadba vo Bitola,"Documentary,Short",1.0,90,5.0,1905.0
+short,Adventures of Sherlock Holmes,"Crime,Drama,Mystery",,51,4.6,1905.0
+short,The Palace of Arabian Knights,"Adventure,Fantasy,Short",14.0,503,6.1,1905.0
+short,Nouvelle fantasmagorie,Short,,8,6.6,1906.0
+short,The Fantastic Diver,Short,2.0,143,4.8,1906.0
+short,El soldado de la Independencia,Short,,16,2.4,1906.0
+movie,Highlights from The Mikado,Musical,,24,3.3,1906.0
+short,Ladrón de bicicletas,"Drama,Short",,8,5.6,1906.0
+short,Mortelle idylle,"Drama,Short",6.0,77,4.7,1906.0
+short,Poor Mother,"Drama,Short",6.0,86,6.2,1906.0
+short,Revolution in Russia,"Drama,Short",4.0,331,5.7,1906.0
+short,Photographie d'une étoile,"Comedy,Short",2.0,32,4.2,1906.0
+short,Day in the Country,"Comedy,Short",7.0,10,6.1,1906.0
+short,Militære Opvisninger paa Fælleden,"Documentary,Short",,10,3.6,1906.0
+short,"Epileptic Seizure, No. 2","Documentary,Short",,12,2.9,1906.0
+short,La scuola di cavalleria in Pinerolo,"Documentary,Short",,11,4.8,1906.0
+short,Islands Altings besøg i København,"Documentary,Short",6.0,36,4.6,1906.0
+short,El parque de palatino,"Documentary,Short",1.0,20,4.6,1906.0
+short,Scenes in San Francisco (No. 1),"Documentary,Short",3.0,15,4.2,1906.0
+short,Dream of a Rarebit Fiend,"Comedy,Fantasy,Short",7.0,1897,6.7,1906.0
+short,The House of Ghosts,"Comedy,Fantasy,Horror",6.0,1277,7.0,1906.0
+short,The San Francisco Earthquake,"Documentary,History,Short",14.0,69,6.8,1906.0
+movie,Belles of Killarney,,,18,3.1,1907.0
+short,A Night with Masqueraders in Paris,Short,,20,5.6,1907.0
+short,Enchanted Glasses,Short,4.0,72,5.5,1907.0
+short,Weird Fantasies,Short,3.0,16,6.0,1907.0
+short,In the Bogie Man's Cave,Short,6.0,203,5.3,1907.0
+short,The Talisman or Sheep's Foot,Short,15.0,161,6.0,1907.0
+short,Terrorists in Russia,Short,11.0,52,5.6,1907.0
+short,"The Trainer's Daughter; or, A Race for Love","Drama,Short",14.0,104,4.4,1907.0
+short,"Hamlet, Prince of Denmark","Drama,Short",10.0,36,5.1,1907.0
+short,Abends nach Neune,"Music,Short",3.0,13,5.4,1907.0
+short,Le récit du colonel,"Comedy,Short",4.0,193,5.9,1907.0
+short,Spot at the 'Phone,"Comedy,Short",,8,6.4,1907.0
+short,The Glue,"Comedy,Short",3.0,273,6.2,1907.0
+short,Trial Marriages,"Comedy,Short",12.0,86,5.2,1907.0
+short,Laughing Gas,"Comedy,Short",9.0,221,5.7,1907.0
+short,When the Devil Drives,"Fantasy,Short",5.0,19,5.6,1907.0
+short,The Fairy of the Black Rocks,"Fantasy,Short",3.0,83,5.3,1907.0
+short,"Panoramic View, Honolulu Harbor, H.I.","Documentary,Short",,10,4.3,1907.0
+short,The Village Fire Brigade,"Comedy,Drama,Short",4.0,14,5.0,1907.0
+short,The Pumpkin Race,"Comedy,Fantasy,Short",6.0,147,6.0,1907.0
+short,Fiakerlied,Short,,8,5.0,1908.0
+short,Japanese Butterflies,Short,4.0,152,5.7,1908.0
+short,A Sculptor's Welsh Rabbit Dream,Short,,6,8.0,1908.0
+short,The Power of Hypnosis,Short,7.0,61,4.8,1908.0
+short,L'hôtel du silence,Short,11.0,72,5.8,1908.0
+short,The Marvelous Fountain,Short,,15,4.8,1908.0
+short,The Reckoning,"Drama,Short",8.0,20,7.1,1908.0
+short,Spanish Blood,"Drama,Short",3.0,19,5.2,1908.0
+short,Caught by Wireless,"Drama,Short",10.0,80,4.8,1908.0
+short,Der Mann mit den drei Frauen,"Music,Short",,9,5.1,1908.0
+short,A Woman's Way,"Action,Short",11.0,21,4.9,1908.0
+short,Wolf Hunt,"Action,Short",15.0,20,3.0,1908.0
+short,At the French Ball,"Comedy,Short",7.0,95,5.1,1908.0
+short,Mr. Jones at the Ball,"Comedy,Short",8.0,65,5.8,1908.0
+short,Cent francs à qui rapportera,"Comedy,Short",3.0,10,5.2,1908.0
+short,An Occasional Porter,"Comedy,Short",,7,4.5,1908.0
+short,The Christmas Burglars,"Comedy,Short",11.0,63,5.4,1908.0
+short,The Cheekiest Man on Earth,"Comedy,Short",4.0,9,4.6,1908.0
+short,The Inconvenience of Taking Moving Pictures,"Comedy,Short",,9,5.9,1908.0
+short,The Grateful Mice,"Fantasy,Short",7.0,10,6.0,1908.0
+short,"The Boy Detective, or the Abductors Foiled","Comedy,Drama,Short",5.0,64,4.8,1908.0
+short,La légende de la fileuse,"Drama,Fantasy,Short",8.0,68,6.3,1908.0
+short,Romeo and Juliet,"Drama,Romance,Short",15.0,60,7.3,1908.0
+movie,Cochero de tranvía,,,17,4.1,1909.0
+short,La bouée,Short,,8,5.8,1909.0
+short,Goban Tadanobu,Short,,13,6.6,1909.0
+movie,Um Cavalheiro Deveras Obsequioso,Comedy,,18,4.6,1909.0
+movie,België,Documentary,,26,7.4,1909.0
+short,The Deception,"Drama,Short",7.0,43,4.5,1909.0
+short,A Brave Irish Lass,"Drama,Short",,28,3.2,1909.0
+short,The Death Disc: A Story of the Cromwellian Period,"Drama,Short",11.0,41,5.2,1909.0
+short,The Prussian Spy,"Drama,Short",5.0,17,4.4,1909.0
+short,The Yiddisher Boy,"Drama,Short",3.0,15,4.2,1909.0
+short,The Haunted Hotel,"Comedy,Short",6.0,56,5.4,1909.0
+short,The Little Vixen,"Comedy,Short",7.0,45,5.4,1909.0
+short,Jones and His New Neighbors,"Comedy,Short",5.0,24,4.2,1909.0
+short,The Surprises of a Flirtation,"Comedy,Short",6.0,95,5.8,1909.0
+short,Seein' Things,"Comedy,Short",,20,6.6,1909.0
+short,Choosing a Husband,"Comedy,Short",6.0,55,3.9,1909.0
+short,The Return of Ulysses,"Adventure,Short",12.0,50,5.7,1909.0
+short,X-Ray Glasses,"Animation,Short",5.0,91,5.7,1909.0
+short,Affairs of Hearts,"Animation,Short",4.0,114,6.1,1909.0
+short,Building and Operating a British Railway,"Documentary,Short",,7,4.4,1909.0
+short,Sevres Porcelains,"Animation,Fantasy,Short",3.0,71,4.6,1909.0
+movie,Barfodsdans,,,12,3.4,1910.0
+movie,Abraham Lincoln's Clemency,,,38,4.8,1910.0
+short,Le vitrail diabolique,Short,7.0,148,5.4,1910.0
+short,The Song That Reached His Heart,"Drama,Short",11.0,82,5.4,1910.0
+short,The Attack on the Mill,"Drama,Short",11.0,16,4.9,1910.0
+short,"The Conspiracy of Pontiac; or, at Fort Detroit in 1763","Drama,Short",13.0,15,4.1,1910.0
+short,Bradford's Claim,"Drama,Short",,18,4.0,1910.0
+short,Oedipus Rex,"Drama,Short",10.0,20,6.7,1910.0
+short,The Usurer,"Drama,Short",17.0,265,5.9,1910.0
+short,A Modern Cinderella,"Drama,Short",16.0,23,5.9,1910.0
+short,A Child's Impulse,"Drama,Short",17.0,78,5.4,1910.0
+short,A Child's Stratagem,"Drama,Short",17.0,56,3.7,1910.0
+short,The Broken Doll,"Drama,Short",17.0,59,4.4,1910.0
+short,The Magic Pills,"Comedy,Short",6.0,19,4.9,1910.0
+short,All on Account of the Milk,"Comedy,Short",16.0,99,6.1,1910.0
+short,How Brother Cook was Taught a Lesson,"Comedy,Short",15.0,9,7.8,1910.0
+short,Il était un petit navire,"Comedy,Short",4.0,7,4.3,1910.0
+short,Max Embarrassed,"Comedy,Short",8.0,47,5.6,1910.0
+short,Who's Who,"Comedy,Short",,11,5.3,1910.0
+short,Calino arroseur public,"Comedy,Short",6.0,13,5.1,1910.0
+short,The Land of Oz,"Fantasy,Short",,35,6.8,1910.0
+short,Rêves enfantins,"Animation,Short",6.0,63,5.7,1910.0
+short,A Woman's Treachery,"Crime,Drama,Short",10.0,13,4.2,1910.0
+short,The Police Force of New York City,"Documentary,Short",9.0,34,5.6,1910.0
+short,Comment les pauvres mangent à Paris,"Documentary,Short",4.0,19,6.3,1910.0
+short,"Lake Garda, Northern Italy","Documentary,Short",9.0,8,7.3,1910.0
+short,A Christmas Carol,"Drama,Fantasy,Short",11.0,758,6.0,1910.0
+short,The Life of Moliere,"Biography,Drama,Short",20.0,78,5.8,1910.0
+movie,Beatrice Cenci,,,15,4.6,1911.0
+short,Zigomar the Eelskin,Short,40.0,10,6.7,1911.0
+short,Amour et science,Short,,8,6.2,1911.0
+short,Badlif vid Mölle,Short,6.0,10,3.9,1911.0
+short,Ponrepovo Kouzelnictvi,Short,,5,5.6,1911.0
+movie,The Luck of Roaring Camp,Western,48.0,15,3.4,1911.0
+short,The Maid at the Helm,"Drama,Short",14.0,19,5.1,1911.0
+short,For Love of an Enemy,"Drama,Short",15.0,13,3.8,1911.0
+short,The Crusaders,"Drama,Short",15.0,22,5.4,1911.0
+short,Artful Kate,"Drama,Short",10.0,38,5.7,1911.0
+short,Her Awakening,"Drama,Short",18.0,18,6.6,1911.0
+short,A Terrible Discovery,"Drama,Short",20.0,11,4.4,1911.0
+short,The Blacksmith's Love,"Drama,Short",16.0,24,5.9,1911.0
+short,A Woman Scorned,"Drama,Short",18.0,24,6.2,1911.0
+short,Bukseskørtet,"Comedy,Short",8.0,12,5.0,1911.0
+short,Patouillard crieur de journaux,"Comedy,Short",6.0,13,4.8,1911.0
+short,Billy's Séance,"Comedy,Short",6.0,17,4.1,1911.0
+short,Jobard a tué sa belle-mère,"Comedy,Short",8.0,47,5.3,1911.0
+short,L'ombrelle,"Comedy,Short",8.0,10,5.4,1911.0
+short,The Two Obadiahs,"Comedy,Short",,8,5.0,1911.0
+short,Léontine s'envole,"Comedy,Short",,17,6.6,1911.0
+short,The Blind Princess and the Poet,"Romance,Short",,51,4.8,1911.0
+short,The Chief's Daughter,"Romance,Short",17.0,35,4.0,1911.0
+short,The Mother of the Ranch,"Short,Western",,14,5.2,1911.0
+short,Les fantaisies d'Agénor Maltracé,"Animation,Short",5.0,56,5.4,1911.0
+short,By a Woman's Wit,"Drama,Short,War",15.0,25,4.5,1911.0
+short,The Miser's Heart,"Crime,Drama,Short",18.0,283,6.3,1911.0
+short,The Diver,"Documentary,Short",8.0,21,4.9,1911.0
+short,Romanska delegacija vo poseta na Resen,"Documentary,Short",4.0,75,5.0,1911.0
+short,Panorama Na Grevena,"Documentary,Short",1.0,94,5.1,1911.0
+short,Crkva vo Grevena,"Documentary,Short",1.0,86,4.7,1911.0
+short,When a Man Loves,"Drama,Romance,Short",17.0,40,5.8,1911.0
+short,The Automatic Motorist,"Comedy,Fantasy,Sci-Fi",10.0,109,5.9,1911.0
+short,Richard III,"Biography,Drama,History",23.0,215,5.7,1911.0
+movie,Il y a des pieds au plafond,,,10,5.6,1912.0
+movie,Napoléon,,,10,6.3,1912.0
+movie,Anfisa,Drama,45.0,12,6.0,1912.0
+movie,Pilgrim's Progress,Drama,,32,5.4,1912.0
+short,Bandits en automobile - Épisode 2: Hors-la-loi,Short,,23,6.7,1912.0
+short,A Pueblo Romance,Short,,18,3.5,1912.0
+short,Superstition andalouse,Short,10.0,125,6.0,1912.0
+movie,For a Baby's Sake,Adventure,,18,5.0,1912.0
+short,The Cry of the Children,"Drama,Short",29.0,316,6.2,1912.0
+short,From the Submerged,"Drama,Short",11.0,95,6.1,1912.0
+short,The Gardener,"Drama,Short",24.0,223,5.8,1912.0
+short,The Bond of Music,"Drama,Short",12.0,19,4.6,1912.0
+short,Les batailles de la vie - Épisode 1: Aux feux de la rampe,"Drama,Short",12.0,10,5.9,1912.0
+short,The Girl in the Arm-Chair,"Drama,Short",10.0,146,5.5,1912.0
+short,The Victoria Cross,"Drama,Short",15.0,24,4.8,1912.0
+short,The County Fair,"Drama,Short",,80,5.8,1912.0
+short,Bratya Razboiniki,"Drama,Short",20.0,49,5.8,1912.0
+short,Purzel als Schornsteinfeger,"Comedy,Short",3.0,6,4.6,1912.0
+short,Calino dompteur par amour,"Comedy,Short",7.0,36,5.0,1912.0
+short,Mabel's Adventures,"Comedy,Short",,15,5.3,1912.0
+short,Max et le mari jaloux,"Comedy,Short",14.0,31,5.8,1912.0
+short,One Exciting Night,"Comedy,Short",7.0,71,5.7,1912.0
+short,Wanted a Wife in a Hurry,"Comedy,Short",9.0,19,3.9,1912.0
+short,Max boxeur par amour,"Comedy,Short",,32,5.6,1912.0
+short,The Skeleton,"Comedy,Short",,17,5.5,1912.0
+short,The Speckled Band,"Mystery,Short",,9,6.6,1912.0
+short,My Hero,"Short,Western",17.0,11,6.2,1912.0
+short,Coeur-Ardent,"Short,Western",13.0,54,5.8,1912.0
+short,The Chief's Blanket,"Short,Western",,38,4.9,1912.0
+short,The Evils of Alcohol,"Animation,Short",,21,6.0,1912.0
+short,Bologna monumentale,"Documentary,Short",5.0,24,6.3,1912.0
+short,Otvoranje na gradska kafeana vo Bitola,"Documentary,Short",2.0,87,4.6,1912.0
+short,Love Amongst the Lions,"Comedy,Drama,Short",25.0,14,5.7,1912.0
+short,Making an American Citizen,"Comedy,Drama,Short",16.0,373,5.3,1912.0
+short,The Maniac,"Drama,Horror,Short",8.0,16,5.3,1912.0
+short,The Sunbeam,"Drama,Romance,Short",17.0,401,6.2,1912.0
+short,Alma's Champion,"Drama,Romance,Short",14.0,19,3.6,1912.0
+short,The Post Telegrapher,"Drama,Short,Western",20.0,22,5.3,1912.0
+short,The Copper Beeches,"Drama,Mystery,Romance",19.0,80,5.4,1912.0
+movie,Jess,"Adventure,Drama,Romance",,30,5.2,1912.0
+movie,Die Jagd nach der Hundertpfundnote oder Die Reise um die Welt,,74.0,13,5.4,1913.0
+movie,Der Millionenonkel,,90.0,22,4.4,1913.0
+movie,La dame de Monsoreau,,,8,6.0,1913.0
+movie,When Paris Loves,Drama,50.0,9,6.7,1913.0
+short,L'ultima vittima,Short,35.0,12,5.0,1913.0
+short,Cinderella,Short,27.0,22,5.1,1913.0
+short,The Edison Kinetophone,Short,6.0,8,6.1,1913.0
+short,La vengeance du sergent de la ville,"Drama,Short",,7,5.6,1913.0
+short,The Sign of the Black Lily,"Drama,Short",22.0,8,6.2,1913.0
+short,Hiawatha,"Drama,Short",40.0,14,6.0,1913.0
+short,The Tiniest of Stars,"Drama,Short",16.0,24,5.7,1913.0
+short,The Stolen Loaf,"Drama,Short",,12,5.8,1913.0
+short,The One Good Turn,"Drama,Short",16.0,11,5.8,1913.0
+short,Saved by the Juvenile Court,"Drama,Short",,27,4.6,1913.0
+short,The House of Darkness,"Drama,Short",17.0,352,6.1,1913.0
+short,Un mariage imprévu,"Comedy,Short",8.0,28,6.2,1913.0
+short,Robinet guardia ciclista,"Comedy,Short",,10,4.0,1913.0
+short,Boireau empoisonneur,"Comedy,Short",,9,6.7,1913.0
+short,Zoé et le parapluie miraculeux,"Comedy,Short",4.0,16,6.3,1913.0
+short,Bout-de-Zan au bal masqué,"Comedy,Short",,7,4.7,1913.0
+short,Karl Valentins Hochzeit,"Comedy,Short",10.0,32,6.2,1913.0
+short,Zoé a la main malheureuse,"Comedy,Short",,5,5.6,1913.0
+short,Cutey Plays Detective,"Comedy,Short",11.0,18,5.3,1913.0
+short,Kri-Kri fuma l'oppio,"Comedy,Short",5.0,17,4.8,1913.0
+short,A Barber Cure,"Comedy,Short",8.0,16,4.5,1913.0
+short,Le bazar mystérieux,"Comedy,Short",2.0,11,5.6,1913.0
+movie,Tess of the D'Urbervilles,"Drama,Romance",,26,5.8,1913.0
+short,The Yaqui Cur,"Short,Western",33.0,17,6.0,1913.0
+short,Dances of the Ages,"Documentary,Short",11.0,10,5.1,1913.0
+short,The Life of Dante,"Drama,Romance,Short",44.0,19,5.9,1913.0
+short,One on Romance,"Comedy,Romance,Short",,17,8.4,1913.0
+short,A Serenade by Proxy,"Comedy,Romance,Short",14.0,89,5.4,1913.0
+short,"$1, 000 Reward","Comedy,Short,Western",,20,6.2,1913.0
+short,A Proposal from the Duke,"Action,Adventure,Short",15.0,7,4.2,1913.0
+short,The Werewolf,"Adventure,Drama,Fantasy",18.0,54,6.1,1913.0
+movie,"Salambo, a $100,000 Spectacle",,84.0,19,6.2,1914.0
+movie,Sonka the Golden Hand,,,27,7.1,1914.0
+movie,El alcalde de Zalamea,,,10,4.0,1914.0
+movie,Beverly of Graustark,Drama,57.0,25,4.3,1914.0
+movie,"A Mexican Mine Fraud; or, The Game That Failed",Drama,59.0,14,4.3,1914.0
+movie,Martin Eden,Drama,50.0,22,5.9,1914.0
+short,Il focolare domestico,Short,42.0,12,4.7,1914.0
+movie,In the Days of the Thundering Herd,Western,48.0,36,5.5,1914.0
+movie,Down with Weapons,"Drama,War",73.0,45,6.0,1914.0
+short,A Christmas Carol,"Drama,Short",22.0,90,5.6,1914.0
+short,Classmates,"Drama,Short",40.0,38,4.9,1914.0
+short,The Lumberjack,"Drama,Short",16.0,7,5.3,1914.0
+movie,What's His Name,"Comedy,Drama",,27,6.4,1914.0
+short,Little Billy's Triumph,"Comedy,Short",10.0,56,4.5,1914.0
+short,Kidnapping the Kid,"Comedy,Short",,12,6.4,1914.0
+short,Daisy Doodad's Dial,"Comedy,Short",9.0,227,6.2,1914.0
+short,Caught in a Cabaret,"Comedy,Short",30.0,1415,5.7,1914.0
+short,Batty Bill's Pertinacity,"Comedy,Short",10.0,24,6.0,1914.0
+short,Wanted: An Heir,"Comedy,Short",,42,2.0,1914.0
+short,Building a Fire,"Comedy,Short",,12,6.6,1914.0
+short,In Wrong,"Comedy,Short",,11,4.3,1914.0
+short,His Prehistoric Past,"Comedy,Short",22.0,979,5.3,1914.0
+short,Dough and Dynamite,"Comedy,Short",33.0,1099,5.9,1914.0
+short,A Train of Incidents,"Comedy,Short",,11,5.0,1914.0
+short,The Smuggler's Daughter,"Comedy,Short",,17,6.8,1914.0
+short,The Man with Wax Faces,"Horror,Short",11.0,210,6.1,1914.0
+short,One of the Bravest,"Drama,Short,War",27.0,13,4.6,1914.0
+movie,The Avenging Conscience: or 'Thou Shalt Not Kill',"Crime,Drama,Horror",78.0,1325,6.4,1914.0
+short,Come Back to Erin,"Drama,Romance,Short",,9,5.4,1914.0
+short,"Lincoln, the Lover","Biography,Romance,Short",10.0,11,8.2,1914.0
+movie,Pasionaria,,25.0,13,4.6,1915.0
+movie,Silvio Pellico,,,9,5.5,1915.0
+movie,A Butterfly on the Wheel,Drama,50.0,66,6.5,1915.0
+movie,The Undesirable,Drama,67.0,222,6.2,1915.0
+movie,Caste,Comedy,,15,5.8,1915.0
+movie,Rumpelstiltskin,Fantasy,,26,5.7,1915.0
+movie,The Disciple,Western,50.0,41,6.6,1915.0
+movie,The Diamond from the Sky,Adventure,,23,5.1,1915.0
+movie,L'aventurier,Adventure,,13,5.3,1915.0
+short,Old Jane of the Gaiety,"Drama,Short",16.0,21,5.0,1915.0
+short,The Price of Betrayal,"Drama,Short",40.0,28,6.9,1915.0
+short,The Gilded Cage,"Drama,Short",,22,5.4,1915.0
+short,The Soap-Suds Star,"Comedy,Short",15.0,29,5.2,1915.0
+short,Ham in a Harem,"Comedy,Short",,12,3.2,1915.0
+short,Hash House Mashers,"Comedy,Short",11.0,103,5.3,1915.0
+short,Something in Her Eye,"Comedy,Short",8.0,59,5.5,1915.0
+short,They Looked Alike,"Comedy,Short",,28,5.1,1915.0
+short,The Marvelous Marathoner,"Comedy,Short",13.0,21,5.1,1915.0
+movie,Temptation,"Drama,Romance",60.0,21,5.7,1915.0
+movie,Old Heidelberg,"Drama,Romance",50.0,43,6.6,1915.0
+movie,Saved from the Harem,"Adventure,Drama",,18,7.0,1915.0
+movie,After Five,"Comedy,Thriller",50.0,24,4.0,1915.0
+short,Kidnapped in New York,"Crime,Drama,Short",40.0,19,4.9,1915.0
+movie,1915 World's Championship Series,"Documentary,Sport",,20,8.4,1915.0
+short,"Love, Speed and Thrills","Action,Comedy,Short",13.0,161,5.1,1915.0
+short,Colonel Heeza Liar Foils the Enemy,"Animation,Comedy,Short",,34,4.5,1915.0
+movie,A Texas Steer,"Action,Adventure,Comedy",,32,2.5,1915.0
+movie,Seven of Spades,,,27,4.5,1916.0
+movie,"Homunculus, 3. Teil - Die Liebeskomödie des Homunculus",,64.0,17,6.5,1916.0
+movie,The Dream Girl,Drama,,24,6.6,1916.0
+movie,The Call of the Cumberlands,Drama,62.0,134,6.2,1916.0
+movie,Sønnen,Drama,47.0,8,5.2,1916.0
+movie,Little Mary Sunshine,Drama,46.0,52,6.6,1916.0
+movie,Her Bleeding Heart,Drama,,26,4.0,1916.0
+short,Les exploits de Farfadet,Short,2.0,42,5.0,1916.0
+short,Concerning One Thousand Dollars,Short,1.0,31,5.1,1916.0
+short,La guerra d'Italia a 3000 metri sull'Adamello,Short,11.0,9,5.3,1916.0
+short,La peine du talion,Short,,11,6.9,1916.0
+movie,The Picture of Dorian Gray,Horror,,39,6.0,1916.0
+short,Her Defiance,"Drama,Short",21.0,105,6.3,1916.0
+short,The Father of Her Child,"Drama,Short",20.0,11,4.8,1916.0
+short,An Odd Freak,"Comedy,Short",,22,7.5,1916.0
+short,The Man from Egypt,"Comedy,Short",14.0,26,5.1,1916.0
+short,Fatty and Mabel Adrift,"Comedy,Short",34.0,457,6.7,1916.0
+short,He Winked and Won,"Comedy,Short",,13,6.0,1916.0
+short,While You Wait,"Comedy,Short",,5,4.8,1916.0
+short,Walls and Wallops,"Comedy,Short",,10,5.4,1916.0
+short,The Feathered Nest,"Comedy,Short",,14,5.6,1916.0
+movie,Into the Primitive,"Adventure,Drama",,17,5.4,1916.0
+movie,Disraeli,"Biography,Drama",60.0,13,6.1,1916.0
+movie,Kitchener's Great Army in the Battle of the Somme,"Documentary,War",74.0,433,6.6,1916.0
+movie,An Enemy to the King,"Adventure,History",60.0,22,6.2,1916.0
+short,Rituaes e Festas Bororo,"Documentary,Short",26.0,11,6.9,1916.0
+short,Fleur de Paris,"Drama,Romance,Short",40.0,15,6.9,1916.0
+short,Local Color on the A-1 Ranch,"Comedy,Short,Western",14.0,33,6.9,1916.0
+movie,The Queen of Spades,"Drama,Fantasy,Horror",63.0,774,6.7,1916.0
+short,Bobby Bumps and His Pointer Pup,"Animation,Comedy,Short",6.0,61,5.9,1916.0
+short,A Day with Governor Whitman,"Biography,Documentary,Short",,36,5.4,1916.0
+movie,Sangre y arena,,65.0,26,5.7,1917.0
+movie,A föld rabjai,,,13,4.8,1917.0
+movie,Behind the Screen,,,24,6.7,1917.0
+movie,The Suburban Vicar,Drama,70.0,25,5.5,1917.0
+movie,Peach Blossom,Drama,90.0,31,6.1,1917.0
+movie,Polly of the Circus,Drama,80.0,62,7.0,1917.0
+movie,Revelj,Drama,73.0,13,5.5,1917.0
+movie,Mothers of Men,Drama,60.0,98,5.7,1917.0
+short,In the Fetters of Darkness,Short,40.0,8,5.7,1917.0
+short,"Friends, Romans and Leo",Short,12.0,22,4.8,1917.0
+movie,Gift o' Gab,Comedy,65.0,13,4.6,1917.0
+movie,Dioguinho,Adventure,72.0,12,6.2,1917.0
+movie,The Scarlet Pimpernel,Adventure,50.0,28,7.4,1917.0
+movie,The Submarine Eye,Adventure,,19,3.3,1917.0
+short,Die schwarze Loo,"Drama,Short",42.0,12,5.8,1917.0
+short,Cenere,"Drama,Short",30.0,195,6.0,1917.0
+short,Move On,"Comedy,Short",5.0,106,4.9,1917.0
+short,Max and the Purse,"Comedy,Short",9.0,44,6.0,1917.0
+short,Easy Street,"Comedy,Short",24.0,5511,7.5,1917.0
+short,Are Waitresses Safe?,"Comedy,Short",20.0,13,6.4,1917.0
+short,A Studio Stampede,"Comedy,Short",,20,4.8,1917.0
+short,The Butcher Boy,"Comedy,Short",30.0,1699,6.3,1917.0
+short,The Chief Cook,"Comedy,Short",15.0,39,4.7,1917.0
+short,The Devil's Assistant,"Horror,Short",23.0,33,6.9,1917.0
+movie,Wenn das Herz in Haß erglüht,"Drama,Romance",50.0,7,4.8,1917.0
+short,Judex: Le pardon d'amour,"Adventure,Short",13.0,40,6.6,1917.0
+short,Judex: La Femme en noir,"Adventure,Short",30.0,40,6.7,1917.0
+short,The United Snakes of America,"Animation,Short",1.0,41,5.1,1917.0
+movie,The Great Secret,"Action,Adventure",,25,5.4,1917.0
+movie,Arsene Lupin,"Crime,Drama,Mystery",50.0,17,5.2,1917.0
+movie,Fangen fra Erie Country Tugthus,,52.0,6,5.2,1918.0
+movie,Andor,,,14,8.7,1918.0
+movie,A skorpió I.,Drama,,24,4.5,1918.0
+movie,The Devil,Drama,,37,5.6,1918.0
+movie,Carmen,Drama,70.0,376,6.0,1918.0
+movie,"Be Silent, My Sorrow, Be Silent",Drama,81.0,138,6.2,1918.0
+movie,Cupid Angling,Drama,,50,7.4,1918.0
+movie,Alemdar Mustafa Pasa,Drama,,12,5.8,1918.0
+movie,When Men Betray,Drama,60.0,15,5.7,1918.0
+short,Proekt inzhenera Prayta,Short,30.0,130,5.6,1918.0
+movie,The Admirable Crichton,Comedy,,17,6.5,1918.0
+movie,"$5,000 Reward",Mystery,50.0,22,5.3,1918.0
+movie,The Gun Woman,Western,50.0,28,7.4,1918.0
+movie,Beautiful Japan,Documentary,133.0,74,5.8,1918.0
+movie,The House of Hate,"Action,Drama",410.0,28,6.8,1918.0
+short,The Paperhangers' Revenge,"Comedy,Short",,5,4.0,1918.0
+short,An Ozark Romance,"Comedy,Short",10.0,13,5.6,1918.0
+short,Business Before Honesty,"Comedy,Short",,12,8.4,1918.0
+movie,"Rich Man, Poor Man","Drama,Romance",50.0,20,7.0,1918.0
+short,The Count of Monte Cristo - Episode 7: The Philanthropist,"Adventure,Short",,9,5.8,1918.0
+short,Le comte de Monte Cristo - Épisode 12: Le crédit illimité,"Adventure,Short",,9,5.7,1918.0
+movie,America's Answer,"Documentary,War",80.0,10,5.0,1918.0
+movie,Wolves of Kultur,"Action,Adventure",330.0,39,5.8,1918.0
+movie,Revolutionens datter,"Comedy,Drama,Romance",52.0,32,5.5,1918.0
+movie,Denny from Ireland,"Comedy,Drama,Western",,38,2.2,1918.0
+short,Bobby Bumps on the Doughnut Trail,"Animation,Comedy,Short",,15,5.6,1918.0
+short,Policy and Pie,"Animation,Comedy,Short",7.0,120,5.4,1918.0
+short,Bobby Bumps' Fight,"Animation,Comedy,Short",,15,4.2,1918.0
+movie,Eyes Without a Face,,,18,6.1,1919.0
+movie,Juan sin ropa,,,24,5.7,1919.0
+movie,Justitia,,,8,4.7,1919.0
+movie,Der unsichtbare Gast,Crime,,9,6.6,1919.0
+movie,The Miracle Man,Drama,80.0,250,6.8,1919.0
+movie,The Greatest Question,Drama,80.0,736,6.0,1919.0
+movie,Broken Barriers,Drama,70.0,18,5.6,1919.0
+movie,The New Moon,Drama,60.0,17,6.7,1919.0
+movie,Liliom,Drama,,31,6.2,1919.0
+movie,The Masked Rider,Drama,300.0,22,6.6,1919.0
+movie,The Darkest Hour,Drama,50.0,16,6.2,1919.0
+movie,The End of the Road,Drama,69.0,13,5.6,1919.0
+movie,Aberglaube,Drama,,12,6.2,1919.0
+movie,Dangerous Hours,Drama,70.0,61,5.2,1919.0
+short,Umanità,Short,,7,6.5,1919.0
+movie,The Prince and Betty,Comedy,50.0,15,7.0,1919.0
+movie,Getting Mary Married,Comedy,65.0,239,6.3,1919.0
+movie,Blind Husbands,"Drama,Romance",102.0,1620,6.9,1919.0
+short,So They Tell Me,"Animation,Short",5.0,17,3.7,1919.0
+movie,The Roaring Road,"Comedy,Drama,Sport",58.0,642,5.8,1919.0
+movie,The Man Hunter,"Action,Adventure,Drama",60.0,24,6.5,1919.0
+short,Bobby Bumps and the Hypnotic Eye,"Animation,Comedy,Short",4.0,24,4.9,1919.0
+movie,Wings of the Morning,"Adventure,Drama,Romance",60.0,20,2.2,1919.0
+movie,Around the World in 80 Days,"Adventure,Drama,Romance",121.0,16,6.6,1919.0
+movie,The Tiger's Trail,"Action,Adventure,Romance",300.0,22,2.7,1919.0
+movie,Hawthorne of the U.S.A.,"Adventure,Comedy,Romance",57.0,400,5.0,1919.0
+movie,Darwin,,,7,8.0,1920.0
+movie,On Our Selection,,74.0,16,5.6,1920.0
+movie,Die geschlossene Kette,,,14,6.3,1920.0
+movie,Helleveeg,,,12,5.6,1920.0
+movie,The Fortune Teller,Drama,70.0,52,7.2,1920.0
+movie,Hairpins,Drama,50.0,19,6.0,1920.0
+movie,Godless Men,Drama,70.0,32,5.2,1920.0
+short,Professor Steinacks Metode el. Foryngelseskuren,Short,,6,5.0,1920.0
+movie,Weltbrand,"Crime,Drama",77.0,15,7.0,1920.0
+short,The Suitor,"Comedy,Short",,24,6.1,1920.0
+short,Grab the Ghost,"Comedy,Short",9.0,19,5.5,1920.0
+short,Dry and Thirsty,"Comedy,Short",12.0,68,4.8,1920.0
+short,Circus Day,"Comedy,Short",,11,4.8,1920.0
+short,The Backyard,"Comedy,Short",,24,5.8,1920.0
+movie,Sand,"Crime,Western",50.0,63,7.0,1920.0
+movie,Hypnose,"Drama,Mystery",96.0,16,6.5,1920.0
+short,Der Einbruch,"Animation,Short",2.0,40,5.1,1920.0
+short,The Wrong Track,"Animation,Short",3.0,16,6.6,1920.0
+movie,Elmo the Fearless,"Action,Adventure",,27,2.5,1920.0
+movie,The Lost City,"Action,Adventure",300.0,32,3.8,1920.0
+movie,The Screaming Shadow,"Action,Adventure",,24,5.9,1920.0
+movie,The Girl of My Heart,"Adventure,Western",50.0,15,5.1,1920.0
+movie,The Price of Redemption,"Adventure,Crime,Drama",60.0,19,5.0,1920.0
+movie,The Mollycoddle,"Adventure,Comedy,Romance",86.0,197,6.6,1920.0
+movie,A Girl of the Bush,,91.0,19,5.5,1921.0
+movie,Pour don Carlos,,90.0,30,6.1,1921.0
+movie,Whispering Shadows,Drama,,24,5.6,1921.0
+movie,The Flower of the North,Drama,93.0,13,6.5,1921.0
+movie,Sybil,Drama,,15,5.6,1921.0
+movie,All Souls' Eve,Drama,60.0,14,6.2,1921.0
+movie,The Dollar-a-Year Man,Comedy,50.0,19,7.3,1921.0
+movie,Be My Wife,Comedy,55.0,449,6.8,1921.0
+movie,Enchantment,Comedy,90.0,308,6.3,1921.0
+movie,The Killer,Western,60.0,23,7.0,1921.0
+movie,'If Only' Jim,Western,50.0,35,3.3,1921.0
+movie,The Freeze-Out,Western,50.0,53,3.8,1921.0
+movie,Beach of Dreams,Adventure,50.0,17,6.8,1921.0
+movie,La regina dei Caraibi,Adventure,,10,4.0,1921.0
+movie,Die Hochbahnkatastrophe,Adventure,,15,5.3,1921.0
+movie,The Torrent,Adventure,50.0,17,1.7,1921.0
+movie,Die Abenteuer eines Ermordeten - 2. Der Smaragd des Badjah von Panlanzur,Adventure,,13,6.6,1921.0
+movie,The Penniless Millionaire,Adventure,,11,6.1,1921.0
+movie,Catching a Coon,Adventure,50.0,28,6.1,1921.0
+short,By Right of Birth,"Drama,Short",4.0,103,5.0,1921.0
+short,Prince Pistachio,"Comedy,Short",,11,5.2,1921.0
+movie,Ludzie bez jutra,"Drama,Romance",83.0,23,6.6,1921.0
+movie,The Blot,"Drama,Romance",91.0,636,6.7,1921.0
+short,Elsie and the Brown Bunny,"Fantasy,Short",8.0,52,4.9,1921.0
+movie,The Murder of General Gryaznov,"Action,Adventure",50.0,60,5.8,1921.0
+short,Swat That Fly,"Documentary,Short",,9,5.4,1921.0
+short,Sleepy Hollow,"Documentary,Short",,6,4.4,1921.0
+short,L'atelier faiminette,"Action,Adult,Short",5.0,65,5.8,1921.0
+movie,The Mechanical Man,"Comedy,Horror,Sci-Fi",80.0,265,5.9,1921.0
+movie,Orphans of the Storm,"Drama,History,Romance",150.0,5280,7.3,1921.0
+movie,Little Miss Smiles,Drama,50.0,49,3.7,1922.0
+movie,My Wild Irish Rose,Drama,70.0,17,2.3,1922.0
+movie,Ai no kusabi,Drama,,39,7.4,1922.0
+movie,Alexandra,Drama,83.0,20,6.0,1922.0
+movie,Marizza,Drama,50.0,99,6.5,1922.0
+movie,Come on Over,Comedy,60.0,23,6.2,1922.0
+movie,Barb Wire,Western,,20,5.0,1922.0
+movie,Der Abenteurer,Adventure,,11,1.0,1922.0
+movie,The Fire Bride,Adventure,50.0,14,6.0,1922.0
+short,Kino-pravda no. 9,"News,Short",12.0,79,5.7,1922.0
+movie,The Vicar of Vejlby,"Crime,Drama",79.0,6,6.2,1922.0
+movie,Trapped by the Mormons,"Crime,Drama",97.0,166,5.5,1922.0
+movie,O Rio Grande do Sul,Documentary,,8,8.9,1922.0
+movie,The Rapids,"Action,Drama",,24,4.4,1922.0
+short,A Barnyard Cavalier,"Comedy,Short",,14,5.1,1922.0
+short,Shiver and Shake,"Comedy,Short",,35,4.9,1922.0
+short,Gymnasium Jim,"Comedy,Short",19.0,72,6.4,1922.0
+short,Take Next Car,"Comedy,Short",10.0,19,6.0,1922.0
+movie,Polly of the Follies,"Comedy,Romance",70.0,15,6.5,1922.0
+movie,Dr. Jack,"Comedy,Romance",60.0,1575,7.1,1922.0
+movie,Ebb Tide,"Adventure,Drama",80.0,20,4.7,1922.0
+movie,Nan of the North,"Action,Adventure",300.0,22,5.9,1922.0
+movie,Sky High,"Action,Drama,Romance",58.0,236,5.9,1922.0
+movie,A Blind Bargain,"Drama,Horror,Mystery",57.0,60,6.4,1922.0
+movie,One Exciting Night,"Comedy,Horror,Mystery",128.0,163,5.5,1922.0
+movie,Year 1863,"Drama,History,Romance",93.0,29,6.1,1922.0
+movie,South of Northern Lights,"Action,Adventure,Drama",55.0,21,5.2,1922.0
+short,Bubbles,"Animation,Comedy,Short",7.0,112,6.4,1922.0
+short,The Original Movie.,"Animation,Comedy,Short",8.0,249,6.4,1922.0
+movie,"Dr. Mabuse, the Gambler","Crime,Mystery,Thriller",242.0,8716,7.8,1922.0
+short,Cinderella,"Animation,Fantasy,Romance",7.0,444,5.5,1922.0
+movie,Man by the Roadside,,,25,4.9,1923.0
+movie,"Rosario, la cortijera",Drama,70.0,6,4.2,1923.0
+movie,The Irony of Fate,Drama,,47,7.4,1923.0
+movie,Wilhelm Tell,Drama,85.0,37,5.6,1923.0
+movie,Curro Vargas,Drama,101.0,17,6.0,1923.0
+movie,Paris Urchin,Comedy,120.0,25,6.7,1923.0
+movie,The Shriek of Araby,Comedy,50.0,42,5.7,1923.0
+movie,The Call of the Canyon,Western,70.0,35,5.0,1923.0
+movie,Fires of Fate,Adventure,,12,4.7,1923.0
+movie,The Fair Maid of Perth,Adventure,,10,4.6,1923.0
+short,The Casting Couch,"Adult,Short",,47,3.2,1923.0
+movie,Boston Blackie,"Crime,Drama",50.0,23,6.8,1923.0
+short,Shoot Straight,"Comedy,Short",10.0,26,5.4,1923.0
+short,Oil's Well,"Comedy,Short",,19,5.9,1923.0
+short,The Uncovered Wagon,"Comedy,Short",,34,6.7,1923.0
+movie,La roche du diable,"Adventure,Crime",,9,6.0,1923.0
+short,Felix Tries for Treasure,"Animation,Short",7.0,21,5.0,1923.0
+movie,"Robin Hood, Jr.","Adventure,Family",,30,2.6,1923.0
+short,Rudolph Valentino and His 88 American Beauties,"Documentary,Short",13.0,61,5.2,1923.0
+short,The Cobbler,"Comedy,Family,Short",20.0,79,6.3,1923.0
+short,A Christmas Carol,"Drama,Fantasy,Short",25.0,91,6.1,1923.0
+movie,Nedbrudte nerver,"Comedy,Crime,Mystery",75.0,58,6.5,1923.0
+movie,North of Hudson Bay,"Action,Adventure,Drama",50.0,116,5.3,1923.0
+short,False Alarm,"Animation,Comedy,Short",12.0,51,6.6,1923.0
+short,The Puzzle,"Animation,Comedy,Short",8.0,38,6.7,1923.0
+movie,Beasts of Paradise,"Action,Adventure,Mystery",300.0,23,7.0,1923.0
+movie,In the Pillory,"Action,Adventure,Romance",60.0,29,6.2,1923.0
+movie,Studenterna på Tröstehult,,96.0,16,5.2,1924.0
+movie,Das Haus am Meer,,62.0,13,7.6,1924.0
+movie,Geared to Go,Drama,50.0,17,7.1,1924.0
+movie,Qiz qalasi,Drama,55.0,27,6.1,1924.0
+movie,Bud pripraven,Drama,50.0,19,5.5,1924.0
+movie,The Passionate Adventure,Drama,,50,6.3,1924.0
+movie,Poisoned Paradise,Drama,70.0,32,6.3,1924.0
+movie,L'affiche,Drama,73.0,14,6.2,1924.0
+short,Gyakuryû,Short,28.0,79,6.3,1924.0
+movie,The City Struck by Lightning,Sci-Fi,72.0,42,5.6,1924.0
+movie,Shootin' Square,Western,58.0,24,5.0,1924.0
+movie,La dame masquée,"Crime,Drama",97.0,22,6.1,1924.0
+movie,I Have Killed,"Crime,Drama",90.0,13,6.7,1924.0
+short,Reno or Bust,"Comedy,Short",,20,5.9,1924.0
+short,Air Pockets,"Comedy,Short",20.0,33,6.1,1924.0
+short,The Poor Fish,"Comedy,Short",10.0,44,7.1,1924.0
+short,Short Kilts,"Comedy,Short",20.0,204,5.2,1924.0
+short,Sherlock's Home,"Comedy,Short",,20,5.7,1924.0
+short,Lizzies of the Field,"Comedy,Short",16.0,187,6.8,1924.0
+movie,The White Sin,"Drama,Romance",93.0,27,7.2,1924.0
+short,The Witch's Fiddle,"Fantasy,Short",7.0,21,4.6,1924.0
+movie,The Air Hawk,"Action,Adventure",50.0,23,6.3,1924.0
+movie,Violettes impériales,"Adventure,Comedy",120.0,26,4.4,1924.0
+short,Wonderful London: London's Free Shows,"Documentary,Short",8.0,17,4.5,1924.0
+short,Wonderful London: Barging Through London,"Documentary,Short",11.0,16,6.3,1924.0
+short,Commencement Day,"Comedy,Family,Short",20.0,42,6.7,1924.0
+movie,Sherlock Jr.,"Action,Comedy,Romance",45.0,51547,8.2,1924.0
+short,Symphonie diaganale,"Animation,Music,Short",7.0,1416,6.0,1924.0
+movie,After Dark,"Action,Adventure,Crime",,22,6.6,1924.0
+short,Alice's Fishy Story,"Animation,Comedy,Short",12.0,168,4.6,1924.0
+short,Alice the Peacemaker,"Animation,Comedy,Short",7.0,46,5.9,1924.0
+short,Felix Brings Home the Bacon,"Animation,Comedy,Short",3.0,32,5.0,1924.0
+movie,Die Nibelungen: Kriemhild's Revenge,"Adventure,Drama,Fantasy",129.0,4681,7.9,1924.0
+short,The Olympic Games as They Were Practiced in Ancient Greece,"Documentary,Short,Sport",8.0,188,5.6,1924.0
+movie,Salammbô,,,19,6.2,1925.0
+movie,Der Turm des Schweigens,Drama,94.0,50,6.6,1925.0
+movie,The Golden Bed,Drama,90.0,37,7.2,1925.0
+movie,The Wanderer,Drama,90.0,43,6.0,1925.0
+movie,Paint and Powder,Drama,70.0,32,8.3,1925.0
+movie,School for Wives,Drama,70.0,25,5.7,1925.0
+movie,Up the Ladder,Drama,61.0,61,6.4,1925.0
+movie,Yego prizyv,Drama,62.0,8,6.4,1925.0
+movie,Barriers Burned Away,Drama,70.0,18,5.5,1925.0
+movie,Oberst Redl,Drama,112.0,9,5.5,1925.0
+movie,Jurando Vingar,Drama,,13,5.3,1925.0
+movie,Vzduvayte gorny,Action,93.0,14,7.8,1925.0
+movie,We Moderns,Comedy,70.0,15,4.8,1925.0
+movie,Stop Flirting,Comedy,60.0,16,6.0,1925.0
+movie,Grønkøbings glade gavtyve,Comedy,,8,5.0,1925.0
+movie,The Demon Rider,Western,49.0,17,6.7,1925.0
+movie,Abu Markúb och de hundrade elefanter,Documentary,72.0,5,5.4,1925.0
+short,Are Parents Pickles?,"Comedy,Short",10.0,18,6.2,1925.0
+short,Tailoring,"Comedy,Short",19.0,11,3.4,1925.0
+short,Under a Spell,"Comedy,Short",,31,5.0,1925.0
+short,A Rainy Knight,"Comedy,Short",20.0,63,5.3,1925.0
+movie,The Merry Widow,"Drama,Romance",137.0,2459,7.3,1925.0
+movie,Déclassé,"Drama,Romance",80.0,46,6.2,1925.0
+short,"Inklings, Issue 12","Animation,Short",6.0,78,6.4,1925.0
+short,Fifty Million Years Ago,"Animation,Short",7.0,20,6.3,1925.0
+short,Film 13,"Documentary,Short",12.0,49,5.0,1925.0
+short,Butter Fingers,"Comedy,Short,Sport",16.0,71,5.9,1925.0
+short,Shootin' Injuns,"Comedy,Family,Short",20.0,50,6.5,1925.0
+movie,Parisian Love,"Crime,Drama,Romance",70.0,256,6.1,1925.0
+short,Como los muertos,"Drama,Romance,Short",12.0,5,4.6,1925.0
+movie,Mother,"Drama,Mystery,Romance",114.0,895,7.6,1925.0
+movie,The Gold Rush,"Adventure,Comedy,Drama",95.0,112956,8.1,1925.0
+short,Just Spooks,"Animation,Comedy,Short",6.0,32,6.3,1925.0
+short,In Dutch,"Animation,Comedy,Short",,17,3.5,1925.0
+short,Alice Loses Out,"Animation,Comedy,Short",7.0,120,4.7,1925.0
+movie,Vin aris damnashave?,"Adventure,Drama,Romance",110.0,23,5.2,1925.0
+movie,The Air Mail,"Action,Adventure,Romance",80.0,38,6.3,1925.0
+movie,The Scarlet Letter,Drama,115.0,1869,7.6,1926.0
+movie,For Alimony Only,Drama,70.0,20,7.1,1926.0
+movie,The Wings of a Serf,Drama,79.0,20,7.4,1926.0
+movie,The Road to Mandalay,Drama,70.0,235,6.3,1926.0
+movie,The Model from Montmartre,Drama,140.0,15,7.0,1926.0
+movie,The Midnight Message,Drama,50.0,34,5.4,1926.0
+movie,Carmen,Drama,110.0,102,6.8,1926.0
+short,La vuelta al Bulín,Short,22.0,33,6.5,1926.0
+short,Introductory Speech by Will H. Hays,Short,4.0,81,4.8,1926.0
+movie,Dangerous Traffic,Action,54.0,24,4.9,1926.0
+movie,Gigantes y cabezudos,Comedy,72.0,13,5.3,1926.0
+movie,Kiki,Comedy,108.0,445,6.8,1926.0
+movie,Paris en cinq jours,Comedy,75.0,34,6.9,1926.0
+movie,Jean Chouan,History,,15,7.5,1926.0
+movie,Pohádka máje,Romance,,10,5.6,1926.0
+movie,Watch Your Wife,"Comedy,Drama",72.0,18,5.6,1926.0
+short,Should Husbands Pay?,"Comedy,Short",20.0,18,6.4,1926.0
+short,Walter's Paying Policy,"Comedy,Short",,6,4.8,1926.0
+short,Sea Scamps,"Comedy,Short",20.0,12,6.0,1926.0
+short,Raisin' Trouble,"Comedy,Short",20.0,11,4.7,1926.0
+short,On the Front Page,"Comedy,Short",22.0,173,5.7,1926.0
+short,Home Cured,"Comedy,Short",,22,6.2,1926.0
+movie,Irish Destiny,"Drama,Romance",73.0,70,6.3,1926.0
+movie,Broken Hearts of Hollywood,"Drama,Romance",80.0,15,6.8,1926.0
+movie,Devil's Island,"Drama,Romance",70.0,31,7.5,1926.0
+movie,Padlocked,"Drama,Romance",70.0,16,7.6,1926.0
+movie,Beverly of Graustark,"Comedy,Romance",70.0,604,6.6,1926.0
+movie,The Lucky Lady,"Comedy,Romance",60.0,57,5.2,1926.0
+movie,Memory Lane,"Comedy,Romance",78.0,24,7.4,1926.0
+movie,The Hound of the Deep,"Adventure,Drama",50.0,10,4.9,1926.0
+movie,The Sea Wolf,"Adventure,Drama",70.0,19,2.2,1926.0
+short,The Story of the Monkey King,"Animation,Short",8.0,25,5.0,1926.0
+short,Sweet Adeline,"Animation,Short",5.0,25,4.1,1926.0
+short,Berliner Stilleben,"Documentary,Short",9.0,49,6.9,1926.0
+short,O Fauno das Montanhas,"Drama,Fantasy,Short",40.0,21,6.7,1926.0
+movie,Aloma of the South Seas,"Comedy,Drama,Romance",90.0,25,5.8,1926.0
+short,The Collegians,"Comedy,Music,Romance",,16,7.1,1926.0
+short,Chase Yourself,"Comedy,Short,Western",18.0,20,6.0,1926.0
+movie,Racing Romance,"Action,Adventure,Crime",60.0,19,6.0,1926.0
+short,Alice's Brown Derby,"Animation,Comedy,Short",7.0,46,5.6,1926.0
+short,Alice in Slumberland,"Animation,Family,Short",,25,6.1,1926.0
+movie,The Lone Wolf Returns,"Adventure,Crime,Mystery",70.0,18,6.4,1926.0
+movie,The Nervous Wreck,"Adventure,Comedy,Romance",70.0,44,6.7,1926.0
+movie,The Strong Man,"Adventure,Comedy,Romance",75.0,916,6.6,1926.0
+movie,The Cheerful Fraud,"Adventure,Comedy,Romance",70.0,28,4.5,1926.0
+movie,Love,,,14,6.9,1927.0
+movie,Dokuro,Drama,48.0,44,6.9,1927.0
+movie,Man from the Restaurant,Drama,62.0,130,6.9,1927.0
+movie,Good Time Charley,Drama,70.0,38,5.6,1927.0
+movie,Malvaloca,Drama,,8,6.0,1927.0
+movie,Colleen,Comedy,60.0,10,5.7,1927.0
+movie,Long Pants,Comedy,60.0,544,6.3,1927.0
+movie,A Crazy Night,Comedy,70.0,51,5.8,1927.0
+movie,Betrayal,History,124.0,13,6.6,1927.0
+movie,Jesse James,Western,80.0,31,5.6,1927.0
+movie,Tskhenebis pabrika,Documentary,,8,6.0,1927.0
+short,The Merchant of Venice,"Drama,Short",9.0,6,4.6,1927.0
+movie,Der König der Mittelstürmer,"Drama,Sport",95.0,35,5.2,1927.0
+movie,Upstream,"Comedy,Drama",60.0,312,6.2,1927.0
+short,Running Wild,"Comedy,Short",,7,6.1,1927.0
+short,Oh! What a Kick!,"Comedy,Short",,7,5.2,1927.0
+short,The Golf Nut,"Comedy,Short",22.0,78,5.5,1927.0
+short,The Relay,"Comedy,Short",22.0,9,6.2,1927.0
+short,Find the King,"Comedy,Short",20.0,11,6.7,1927.0
+short,Jewish Prudence,"Comedy,Short",20.0,153,6.4,1927.0
+movie,Señorita,"Action,Comedy",70.0,30,6.9,1927.0
+movie,October (Ten Days that Shook the World),"Drama,History",142.0,8084,7.4,1927.0
+movie,The Love of Jeanne Ney,"Drama,Romance",104.0,831,7.2,1927.0
+movie,The Gay Defender,"Drama,Romance",70.0,14,6.4,1927.0
+movie,The Loves of Carmen,"Drama,Romance",90.0,61,6.5,1927.0
+movie,Blazing Days,"Drama,Western",50.0,33,5.2,1927.0
+short,The Silent Partner,"Short,Western",,15,5.9,1927.0
+short,Kelcy Gets His Man,"Short,Western",,6,5.8,1927.0
+short,Tenderfoot Courage,"Short,Western",,17,6.4,1927.0
+short,Gun Justice,"Short,Western",,19,6.9,1927.0
+short,The Two Fister,"Short,Western",21.0,20,5.2,1927.0
+movie,The Last Trail,"Action,Western",56.0,20,6.7,1927.0
+movie,The College Hero,"Comedy,Romance",54.0,30,4.9,1927.0
+movie,The Gorilla,"Horror,Thriller",80.0,33,7.4,1927.0
+short,Hollywood the Unusual,"Documentary,Short",10.0,36,7.9,1927.0
+short,How to Use the Dial Telephone,"Documentary,Short",7.0,23,5.1,1927.0
+short,Seeing the World,"Comedy,Family,Short",20.0,65,6.4,1927.0
+short,Bigger and Better Blondes,"Comedy,Music,Romance",,12,9.1,1927.0
+movie,The Understanding Heart,"Adventure,Crime,Drama",67.0,185,2.5,1927.0
+movie,Rose of the Bowery,"Adventure,Crime,Drama",,15,6.2,1927.0
+movie,Huntingtower,"Action,Adventure,Drama",72.0,16,6.7,1927.0
+short,Alice Foils the Pirates,"Animation,Comedy,Short",7.0,24,6.6,1927.0
+movie,The Midnight Taxi,Drama,64.0,29,5.6,1928.0
+movie,The Wedding March,Drama,113.0,1814,7.4,1928.0
+movie,Schmutziges Geld,Drama,94.0,39,7.0,1928.0
+movie,Moulin Rouge,Drama,137.0,257,6.6,1928.0
+movie,The Power of Evil,Drama,62.0,26,4.3,1928.0
+movie,Secrets of the Orient,Drama,90.0,20,7.6,1928.0
+movie,Four Walls,Drama,60.0,405,4.5,1928.0
+movie,Rose-Marie,Drama,70.0,221,4.2,1928.0
+movie,Hinge khndzorin,Drama,54.0,17,3.7,1928.0
+movie,Ladies of the Mob,Drama,66.0,44,7.5,1928.0
+tvMovie,The Queen's Messenger,Drama,40.0,27,9.2,1928.0
+short,Pumpkin,Short,43.0,25,6.4,1928.0
+short,Couple on the Move,Short,41.0,25,6.2,1928.0
+short,Voices Across the Sea,Short,11.0,123,1.1,1928.0
+movie,Dreams of Youth,Comedy,56.0,48,6.0,1928.0
+movie,Champagne,Comedy,86.0,2482,5.4,1928.0
+movie,Brotherly Love,Comedy,67.0,18,6.2,1928.0
+movie,Ladies' Night in a Turkish Bath,Comedy,70.0,37,7.0,1928.0
+movie,Heart to Heart,Comedy,70.0,27,5.6,1928.0
+movie,Thunder Riders,Western,50.0,46,3.8,1928.0
+movie,Q-Ships,"Drama,War",78.0,20,7.0,1928.0
+movie,Études sur Paris,Documentary,76.0,91,7.3,1928.0
+short,Napoleon's Barber,"Drama,Short",32.0,39,3.1,1928.0
+short,Stories in Song,"Music,Short",10.0,37,5.8,1928.0
+short,The Five Locust Sisters,"Music,Short",5.0,79,4.6,1928.0
+short,Gus Arnheim and His Cocoanut Grove Orchestra,"Music,Short",10.0,41,5.9,1928.0
+short,Chaz Chase: 'the Unique Comedian',"Comedy,Short",7.0,44,5.1,1928.0
+short,Three Tough Onions,"Comedy,Short",10.0,24,4.2,1928.0
+short,Why Babies Leave Home,"Comedy,Short",16.0,12,5.4,1928.0
+short,English as She Is Not Spoken,"Comedy,Short",7.0,11,4.1,1928.0
+movie,Bulat-Batyr,"Drama,History",,11,5.4,1928.0
+movie,Glorious Betsy,"Drama,History",80.0,133,5.8,1928.0
+movie,La condesa María,"Drama,Romance",81.0,20,6.0,1928.0
+movie,The Lady of the Lake,"Drama,Romance",52.0,42,5.0,1928.0
+movie,The Divine Sinner,"Drama,Romance",60.0,18,6.7,1928.0
+movie,Confetti,"Drama,Romance",72.0,8,6.2,1928.0
+short,Abe Lyman and His Orchestra,"Musical,Short",8.0,13,7.2,1928.0
+short,La tour,"Documentary,Short",14.0,200,6.6,1928.0
+movie,Show Folks,"Comedy,Drama,Music",70.0,35,6.0,1928.0
+movie,"Steamboat Bill, Jr.","Action,Comedy,Drama",70.0,15169,7.8,1928.0
+movie,Happiness Ahead,"Drama,Music,Romance",72.0,22,6.4,1928.0
+short,The Love Charm,"Drama,Romance,Short",10.0,62,5.7,1928.0
+movie,Speedy,"Action,Comedy,Family",85.0,3970,7.6,1928.0
+movie,The Legion of the Condemned,"Action,Drama,Romance",80.0,66,6.4,1928.0
+movie,The Farmer's Wife,"Comedy,Drama,Romance",100.0,2957,5.8,1928.0
+short,Limousine Love,"Comedy,Music,Romance",20.0,95,7.8,1928.0
+movie,The Circus,"Comedy,Family,Romance",72.0,34562,8.1,1928.0
+movie,The Gadfly,"Action,Adventure,Drama",95.0,25,5.1,1928.0
+movie,Half a Bride,"Adventure,Drama,Romance",67.0,41,6.3,1928.0
+movie,Hunger in Waldenburg,,,17,6.5,1929.0
+movie,The Divine Voyage,,102.0,68,6.6,1929.0
+movie,The Honeymoon,,,74,7.3,1929.0
+movie,A dança dos paroxismos,,46.0,124,6.7,1929.0
+movie,Tit for Tat,,,19,7.5,1929.0
+movie,Der Adjutant des Zaren,,91.0,24,7.1,1929.0
+movie,High Voltage,Drama,63.0,390,5.3,1929.0
+movie,The Laughing Lady,Drama,80.0,60,6.5,1929.0
+movie,Tôkyô kôshinkyoku,Drama,101.0,322,6.6,1929.0
